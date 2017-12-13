@@ -1,0 +1,9 @@
+Building CeoCoin
+
+See doc/readme-qt.rst for instructions on building CeoCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CeoCoin.
+
+See doc/build-*.txt for instructions on building ceocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CeoCoin.
